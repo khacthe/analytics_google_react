@@ -1,4 +1,4 @@
-# # Analytics Google with React js project 
+# # Analytics Google with Reactjs
 
 
 ## Overview
