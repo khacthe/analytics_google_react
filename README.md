@@ -5,6 +5,8 @@
 
 Google Analytics cung cấp số liệu thống kê và các phân tích cơ bản để bạn có thể tối ưu hóa công cụ tìm kiếm ( SEO ) và các mục đích tiếp thị. Giúp bạn có thể dễ dàng xác định được lưu lượng truy cập trang web, tỷ lệ chuyển đổi đến tỷ lệ thoát của trang web và nhiều hơn nữa. Chính vì tầm quan trọng của nó là vậy nên ở một số framework hay CMS nó đã được tích hợp sẵn => việc sử dụng nó hết sức đơn giản. Vậy đối với một library mới và mạnh như thằng React js thì thế nào?
 
+![google-analytics-la-gi](https://user-images.githubusercontent.com/13729049/60029973-59775b80-96cc-11e9-92d7-dd95acc22369.jpg)
+
 ## Setup
 
 - Trước tiên ta tạo một demo với create-app-react
@@ -65,7 +67,7 @@ args.transport: Support
 
 
 Khi bất kì người dùng nào ấn click vào button đăng kí hoặc login thì dừ liệu google analytics sẽ cập nhật và hiểu thì cho người quản trị.
-
+![sheet](https://user-images.githubusercontent.com/13729049/60030002-685e0e00-96cc-11e9-9fb0-51e9746b521a.png)
 Vậy làm thế nào để tracking toàn bộ page của trang web ?
 
 ## Tracking Page View
